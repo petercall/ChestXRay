@@ -8,10 +8,14 @@ The possible abnormalities are: Atelectasis, Calcification, Cardiomegaly, Consol
 My final results (acheived with limited training xray images and GPU power) were:
 
 Training and Validation Losses:
+
+
 ![image](https://github.com/petercall/ChestXRay/assets/106123313/cc73f1dd-090c-4498-b450-c6829034efdf)
 
 
 Accuracy on Validation Dataset:
+
+
 ![image](https://github.com/petercall/ChestXRay/assets/106123313/a7711ba5-f880-4749-bbb5-715c5679d2e9)
 
 
