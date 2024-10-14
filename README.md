@@ -1,4 +1,4 @@
-In this repository I train a deep learning model with a UNet architecture to detect up to 13 chest abnormalities from chest xrays.
+In this repository I train a deep nuerel network with a UNet architecture to detect up to 13 chest abnormalities from chest xrays.
 
 The possible abnormalities are: Atelectasis, Calcification, Cardiomegaly, Consolidation, Diffuse Nodule, Effusion, Emphysema, Fibrosis, Fracture, Mass, Nodule, Pleural Thickening, Pneumothorax.
 
